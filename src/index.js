@@ -106,7 +106,7 @@ function lt(num1, num2) {
   } else if(num1.length === num2.length) {
     return num1 < num2
   } else {
-    return false
+    return false;
   }
 }
 
